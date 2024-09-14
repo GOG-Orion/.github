@@ -13,6 +13,14 @@ Or those that only want to use the GOG plataform integrations, but just gives up
   * -[ ] Improve knowledge base for script, plugin & integrations developers.
 
 
+## Reach for the Stars 🌟
+
+Even though i'm not that experienced in programming, my "intuito" is to learn more about these integrations, scripts & requests and how they work.
+Along with other things as Tauri, which will be used for the GUI, and i've never used it before! lol
+
+But mostly, i'm doing this project, because it's a software that i want to use. So what's better than that? So, feel free to contribute or use once it's working!
+
+#
 ***DISCLAIMER**: *This project does not intend to "steal" or "make it better", than GOG Nebula. This is just a different approach. Every script, integration, update etc, that is "released" in this repo, and can be useful to any repo @GOG-Nebula , **will** have a pr there!
 In the end, we are all the same community.*
 
